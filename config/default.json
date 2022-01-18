@@ -1,0 +1,13 @@
+{
+  "SERVER": {
+    "PORT": 9000
+  },
+  "MONGO": {
+    "URI": "mongodb://localhost/app_name",
+    "OPTIONS": {
+      "useNewUrlParser": true,
+      "useUnifiedTopology": true,
+      "useFindAndModify": false
+    }
+  }
+}
